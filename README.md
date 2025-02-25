@@ -2,7 +2,7 @@
 
 # I Research. I Refactor. I Reinvent.
 # Hi, I’m Sumith Navalgund, a Software Developer Pushing Boundaries!
-🛜 Currently working on my own webpage<br>👨🏼‍🎓 Studying M.Sc at R. V. College of Engineering College in Bengaluru<br>👨🏼‍💻 Web Developer<br> <span style="font-family: 'JetBrains Mono', monospace;">
+🛜 Currently working on my own webpage<br>👨🏼‍🎓 Studying MCA at R. V. College of Engineering College in Bengaluru<br>👨🏼‍💻 Web Developer<br> <span style="font-family: 'JetBrains Mono', monospace;">
 </span>
 
 
